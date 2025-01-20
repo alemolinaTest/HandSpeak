@@ -46,7 +46,7 @@ class GestureRecognizerHelper @Inject constructor(
             "Closed_Fist" -> "✊"
             "Victory" -> "✌\uFE0F"
             "ILoveYou" -> "\uD83E\uDD1F"
-            else -> null
+            else -> "😡"
         }
 
         gesture?.let { onGestureRecognized?.invoke(it) }
