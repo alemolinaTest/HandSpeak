@@ -14,4 +14,7 @@ Just stand in front of the device camera and try these gestures with one hand
             "Victory" -> "✌️"
             "ILoveYou" -> "🤟"
 
+In the future I want to let the Gesture Recognizer to manage other gestures for 2 hands and recognize 
             
+- American Sign Language (ASL): Used in the United States and parts of Canada.
+- Argentinian Sign Language (LSA): Used in Argentina.
